@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|c:\\users\\dxdes\\desktop\\first-game-in-godot-mainc\\first-game-in-godot-main\\first game\\addons\\gdsave\\internal\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|solutionrelative:addons\\gdsave\\internal\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|c:\\users\\dxdes\\desktop\\first-game-in-godot-mainc\\first-game-in-godot-main\\first game\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|solutionrelative:scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|c:\\users\\dxdes\\desktop\\first-game-in-godot-mainc\\first-game-in-godot-main\\first game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAC5290-5D4F-4908-91EF-828CFCEC5F1E}|First Game.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\addons\\GDSave\\Internal\\SaveSettings.cs",
+              "RelativeDocumentMoniker": "addons\\GDSave\\Internal\\SaveSettings.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\addons\\GDSave\\Internal\\SaveSettings.cs",
+              "RelativeToolTip": "addons\\GDSave\\Internal\\SaveSettings.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T01:47:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:04:19.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\Scripts\\KillZone.cs",
+              "RelativeDocumentMoniker": "Scripts\\KillZone.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\first-game-in-godot-mainC\\first-game-in-godot-main\\First Game\\Scripts\\KillZone.cs",
+              "RelativeToolTip": "Scripts\\KillZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:41:22.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

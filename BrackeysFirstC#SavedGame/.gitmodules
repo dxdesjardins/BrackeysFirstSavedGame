@@ -1,0 +1,8 @@
+[submodule "addons/GDEssentials"]
+	path = addons/GDEssentials
+	url = https://github.com/dxdesjardins/GDEssentials
+	branch = master
+[submodule "addons/GDSave"]
+	path = addons/GDSave
+	url = https://github.com/dxdesjardins/GDSave.git
+	branch = main

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|c:\\users\\dxdes\\desktop\\brackeysfirstgame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|c:\\users\\dxdes\\desktop\\brackeysfirstgame\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|solutionrelative:scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|c:\\users\\dxdes\\desktop\\brackeysfirstgame\\addons\\gdsave\\internal\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD6665F-6299-4A89-B79C-084AB783DCC2}|First Game.csproj|solutionrelative:addons\\gdsave\\internal\\savesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\addons\\GDSave\\Internal\\SaveSettings.cs",
+              "RelativeDocumentMoniker": "addons\\GDSave\\Internal\\SaveSettings.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\addons\\GDSave\\Internal\\SaveSettings.cs",
+              "RelativeToolTip": "addons\\GDSave\\Internal\\SaveSettings.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAABBwEwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T01:47:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:04:19.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\Scripts\\KillZone.cs",
+              "RelativeDocumentMoniker": "Scripts\\KillZone.cs",
+              "ToolTip": "C:\\Users\\dxdes\\Desktop\\BrackeysFirstGame\\Scripts\\KillZone.cs",
+              "RelativeToolTip": "Scripts\\KillZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:41:22.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
