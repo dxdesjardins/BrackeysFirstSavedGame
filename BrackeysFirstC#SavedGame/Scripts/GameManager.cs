@@ -10,7 +10,7 @@ public sealed partial class GameManager : Node, ISaveable
     private int _score;
     private Label _scoreLabel = default!;
 
-    public string SaveableId { get; set; }
+    [Export] public string SaveableId { get; set; }
 
     public override void _Ready()
     {
